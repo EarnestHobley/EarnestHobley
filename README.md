@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/EarnestHobley/Vulnerability-management-program-/blob/main/README.md)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/EarnestHobley/Programmatic-Vulnerability-Remediations-PowerShell-BASH-Shell-Commands-/tree/main)**
 
 ## 🚨 Threat Hunting and Security Operations
 
